@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "updated_at": "2026-02-18",
+  "allowed": [
+    "DEVICE_ID_1",
+    "DEVICE_ID_2"
+  ]
+}
