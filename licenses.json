@@ -6,6 +6,11 @@
       "activated_at": "2026-02-18T22:10:11.609749",
       "note": "Test activation",
       "revoked_at": "2026-02-18T22:24:10.058341"
+    },
+    "test1@example.com": {
+      "name": "Test1",
+      "expires": "2026-03-20",
+      "added_at": "2026-02-18T22:28:27.430943"
     }
   }
 }
