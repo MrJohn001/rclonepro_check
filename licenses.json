@@ -2,9 +2,9 @@
   "allowed": {
     "test@example.com": {
       "name": "Test User",
-      "device_id": "",
+      "device_id": "c4a2cec2158f028a250404c97df0d6ea7e40a19b7e0f5b0b119acbcd129e6e37",
       "expires": "2026-03-21",
-      "activated_at": "2026-02-19T00:52:12.760984",
+      "activated_at": "2026-02-19T01:16:35.830842",
       "note": "Test activation"
     }
   }
