@@ -10,7 +10,9 @@
     "test1@example.com": {
       "name": "Test1",
       "expires": "2026-03-20",
-      "added_at": "2026-02-18T22:28:27.430943"
+      "added_at": "2026-02-18T22:28:27.430943",
+      "device_id": "c4a2cec2158f028a250404c97df0d6ea7e40a19b7e0f5b0b119acbcd129e6e37",
+      "activated_at": "2026-02-18T23:09:12.305664"
     }
   }
 }
