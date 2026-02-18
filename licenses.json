@@ -1,10 +1,8 @@
 {
-  "version": 1,
-  "updated_at": "2026-02-18",
   "allowed": {
-    "c4a2cec2158f028a250404c97df0d6ea7e40a19b7e0f5b0b119acbcd129e6e37": {
-      "name": "Nguyễn Văn b",
-      "email": "user@example.com",
+    "johnnguyenx01@gmail.com": {
+      "name": "User Name",
+      "device_id": "94b3a26870ff6a0172546412f9217536d526e260e63286545b461c14210eb467",
       "expires": "2027-02-18",
       "note": "Community member"
     }
