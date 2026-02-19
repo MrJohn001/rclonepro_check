@@ -9,10 +9,11 @@
     },
     "test1@example.com": {
       "name": "Test1",
-      "expires": "2026-03-20",
+      "expires": "2026-03-21",
       "added_at": "2026-02-18T22:28:27.430943",
-      "activated_at": "2026-02-18T23:24:17.116167",
-      "revoked_at": "2026-02-19T00:07:56.368956"
+      "activated_at": "2026-02-19T00:09:45.597947",
+      "revoked_at": "2026-02-19T00:07:56.368956",
+      "device_id": "94b3a26870ff6a0172546412f9217536d526e260e63286545b461c14210eb467"
     },
     "test2@example.com": {
       "name": "Test2",
