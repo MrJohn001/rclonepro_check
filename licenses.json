@@ -42,6 +42,14 @@
       "activated_at": "2026-02-19T08:21:23.426211",
       "note": "Automated test",
       "revoked_at": "2026-02-19T08:21:30.858925"
+    },
+    "e2e_test_clean@rclonepro.test": {
+      "name": "E2E Clean Test",
+      "added_at": "2026-02-19T08:24:06.635218",
+      "device_id": "94b3a26870ff6a0172546412f9217536d526e260e63286545b461c14210eb467",
+      "expires": "2026-03-21",
+      "activated_at": "2026-02-19T08:24:06.635218",
+      "note": "Automated test"
     }
   }
 }
